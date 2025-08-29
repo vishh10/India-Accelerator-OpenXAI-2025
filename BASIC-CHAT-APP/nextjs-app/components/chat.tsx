@@ -45,7 +45,7 @@ export function Chat() {
               .finally(() => setLoading(false));
           }}
         >
-          Send
+          SEND
         </button>
       </div>
     </div>
